@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Gráfico de Burndown: Conceito e Benefícios para Equipes Ágeis ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo deste projeto é criar um vídeo curto e explicativo, utilizando inteligência artificial, para abordar o conceito do gráfico de burndown, seus principais elementos e como ele pode auxiliar equipes que adotam metodologias ágeis, como Scrum e Kanban.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[HeyGen](https://app.heygen.com/login) para criar o vídeo e [ChatGpt](https://chatgpt.com/) para fazer o roteiro do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente, acessei o [ChatGpt](https://chatgpt.com/) sem realizar autenticação e digitei o prompt: 'O que é o gráfico de burndown e quais seus benefícios?' para obter o roteiro. Em seguida, acessei o [HeyGen](https://app.heygen.com/login), criei uma conta gratuita, que permite a criação de até 3 vídeos com avatar por mês. Escolhi um avatar e inseri o roteiro na caixa de texto. O sistema gerou o vídeo, e então realizei o download no formato MP4.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto    
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi uma atividade muito interessante, pois me permitiu consolidar o conteúdo aprendido em aula e obter insights valiosos sobre como utilizar a inteligência artificial no meu trabalho como Scrum Master. 
